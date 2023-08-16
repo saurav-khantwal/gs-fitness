@@ -335,6 +335,8 @@ ol {
 
 .logo a {
 	display: inline-block;
+	height: 40%;
+	width: 40%;
 }
 
 .nav-menu {
