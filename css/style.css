@@ -1242,8 +1242,8 @@ ol {
 -----------------------*/
 
 .breadcrumb-section {
-	height: 500px;
-	padding-top: 230px;
+	height: 300px;
+	padding: 6%;
 }
 
 .breadcrumb-text h2 {
